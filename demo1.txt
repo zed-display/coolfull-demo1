@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 this is a demo1
 
 <<<<<<< HEAD
@@ -20,3 +21,6 @@ hello  world
 =======
 hello  world
 >>>>>>> parent of 7a3546d... sub
+=======
+this is a demo1
+>>>>>>> parent of 7021216... hello world
