@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-this is a demo1
-
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 hello  worl
 
@@ -14,13 +9,3 @@ this  is  hc  -deom
 hello  world
 
 
-´úÂë³åÍ»---ku-x
-=======
-hello  world
->>>>>>> parent of 7a3546d... sub
-=======
-hello  world
->>>>>>> parent of 7a3546d... sub
-=======
-this is a demo1
->>>>>>> parent of 7021216... hello world
