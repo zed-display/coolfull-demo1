@@ -1,5 +1,6 @@
 this is a demo1
 
+<<<<<<< HEAD
 
 hello  worl
 
@@ -12,3 +13,6 @@ hello  world
 
 
 ´úÂë³åÍ»---ku-x
+=======
+hello  world
+>>>>>>> parent of 7a3546d... sub
